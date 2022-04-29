@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-demo/static/css/main.702e2c25.chunk.css",
-    "main.js": "/react-demo/static/js/main.9b118f3c.chunk.js",
-    "main.js.map": "/react-demo/static/js/main.9b118f3c.chunk.js.map",
-    "runtime-main.js": "/react-demo/static/js/runtime-main.8520874f.js",
-    "runtime-main.js.map": "/react-demo/static/js/runtime-main.8520874f.js.map",
-    "static/css/2.184f8ef6.chunk.css": "/react-demo/static/css/2.184f8ef6.chunk.css",
-    "static/js/2.865d9770.chunk.js": "/react-demo/static/js/2.865d9770.chunk.js",
-    "static/js/2.865d9770.chunk.js.map": "/react-demo/static/js/2.865d9770.chunk.js.map",
-    "static/js/3.67e45243.chunk.js": "/react-demo/static/js/3.67e45243.chunk.js",
-    "static/js/3.67e45243.chunk.js.map": "/react-demo/static/js/3.67e45243.chunk.js.map",
-    "index.html": "/react-demo/index.html",
-    "static/css/2.184f8ef6.chunk.css.map": "/react-demo/static/css/2.184f8ef6.chunk.css.map",
-    "static/css/main.702e2c25.chunk.css.map": "/react-demo/static/css/main.702e2c25.chunk.css.map",
-    "static/js/2.865d9770.chunk.js.LICENSE.txt": "/react-demo/static/js/2.865d9770.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/react-demo/static/media/Roboto-Regular.04b605aa.ttf",
-    "static/media/getFetch.cjs": "/react-demo/static/media/getFetch.582d29c4.cjs"
+    "main.css": "/static/css/main.f4dac49c.chunk.css",
+    "main.js": "/static/js/main.4b150f45.chunk.js",
+    "main.js.map": "/static/js/main.4b150f45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.931c6065.js",
+    "runtime-main.js.map": "/static/js/runtime-main.931c6065.js.map",
+    "static/css/2.184f8ef6.chunk.css": "/static/css/2.184f8ef6.chunk.css",
+    "static/js/2.865d9770.chunk.js": "/static/js/2.865d9770.chunk.js",
+    "static/js/2.865d9770.chunk.js.map": "/static/js/2.865d9770.chunk.js.map",
+    "static/js/3.67e45243.chunk.js": "/static/js/3.67e45243.chunk.js",
+    "static/js/3.67e45243.chunk.js.map": "/static/js/3.67e45243.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.184f8ef6.chunk.css.map": "/static/css/2.184f8ef6.chunk.css.map",
+    "static/css/main.f4dac49c.chunk.css.map": "/static/css/main.f4dac49c.chunk.css.map",
+    "static/js/2.865d9770.chunk.js.LICENSE.txt": "/static/js/2.865d9770.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/Roboto-Regular.04b605aa.ttf",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.8520874f.js",
+    "static/js/runtime-main.931c6065.js",
     "static/css/2.184f8ef6.chunk.css",
     "static/js/2.865d9770.chunk.js",
-    "static/css/main.702e2c25.chunk.css",
-    "static/js/main.9b118f3c.chunk.js"
+    "static/css/main.f4dac49c.chunk.css",
+    "static/js/main.4b150f45.chunk.js"
   ]
 }
