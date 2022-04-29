@@ -1,5 +1,10 @@
 {
   "LOGIN_PAGE": {
-    "FORGOT": "Forgot password1?"
+    "FORGOT": "Forgot password11111?",
+    "PASSWORD": "Password",
+    "REMEMBER": "Remember Me",
+    "SIGNIN": "SIGN IN",
+    "SIGNUPFREE": "Need account? Sign up free",
+    "USERNAME": "Username"
   }
 }
