@@ -1,5 +1,10 @@
 {
   "LOGIN_PAGE": {
-    "FORGOT": "Forgot password1?"
+    "FORGOT": "비밀번호 분실?",
+    "PASSWORD": "비밀번호",
+    "REMEMBER": "날 기억해",
+    "SIGNIN": "로그인",
+    "SIGNUPFREE": "계정이 필요합니다? ",
+    "USERNAME": "사용자 이름"
   }
 }
